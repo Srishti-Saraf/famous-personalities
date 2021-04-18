@@ -111,6 +111,7 @@ ul li.active a{
 }
 .topics ul li:hover::after{
     width: 100%;
+   
 }
 .topics ul li img{
     width: 150px;
